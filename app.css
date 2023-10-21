@@ -3,6 +3,15 @@ h1 {
     font-family:'Trebuchet MS'
 }
 
+img {
+    width: 70%;
+    height: 100%;
+}
+
+p {
+    font-family:'Trebuchet MS'
+}
+
 .main {
     margin: 10%;
     display: flex;
@@ -10,7 +19,7 @@ h1 {
     text-align: center;
 }
 
-.Alan_section {
+.Alan-section {
     width: 50%;
     height: 100%;
     text-align: center;
@@ -18,7 +27,7 @@ h1 {
     margin: 10%;
 }
 
-.Nick_section {
+.Nick-section {
     width: 50%;
     height: 100%;
     text-align: center;
@@ -30,6 +39,11 @@ h1 {
     text-align: center;
     justify-content: space-evenly;
     margin: 10%;
+}
+
+.bio-images {
+    max-width:100%;
+    height:auto;
 }
 
 .projects {
