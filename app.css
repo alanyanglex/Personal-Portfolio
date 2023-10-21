@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(15, 23, 83);
+    font-family:'Trebuchet MS'
+}
+
+.main {
+    margin: 10%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.Alan_section {
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    justify-content: space-evenly;
+    margin: 10%;
+}
+
+.Nick_section {
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    justify-content: space-evenly;
+    margin: 10%;
+}
+
+.bio {
+    text-align: center;
+    justify-content: space-evenly;
+    margin: 10%;
+}
+
+.projects {
+    
+}
